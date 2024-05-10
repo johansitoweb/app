@@ -1,0 +1,24 @@
+---------------------------------------------------
+Here are the ownership and the certification details
+of the Johacalcul 1.0
+---------------------------------------------------
+
+app_name - 						Johacalcul
+app_alias - 					johacalcul
+app_author_name - 				My Company
+app_author_organizational - 	My Company
+app_author_organization - 		My Company
+app_author_locality - 			My Company
+app_author_state - 				Distrito Nacional (Santo Domingo)
+app_author_country - 			Dominican Republic
+app_password - 					FCTfVne1vlmW
+app_versionName - 				versionName "1.0"
+app_versionCode - 				100
+
+---------------------------------------------------
+The certification was created by WebIntoApp.com at
+the Thursday 11th of April 2024 12:49:57 PM
+
+https://www.webintoapp.com
+---------------------------------------------------
+
